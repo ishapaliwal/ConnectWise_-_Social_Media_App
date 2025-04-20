@@ -1,0 +1,8 @@
+@use "bootstrap/scss/bootstrap" as *;
+
+body {
+    font-family: "Segoe UI", "Roboto", "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    background-image: url("../public/light-pattern.svg");
+    background-repeat: repeat;
+    background-size: 150px auto;
+}
