@@ -61,6 +61,46 @@ A full-featured **social media platform** built with **React, Node.js, PostgreSQ
 
 ---
 
+## 📁 Folder Structure
+
+```
+├── frontend
+│   ├── components
+│   ├── pages
+│   ├── features (Redux)
+│   └── services
+├── backend
+│   ├── controllers
+│   ├── routes
+│   ├── models
+│   └── middleware
+```
+
+---
+
+## 🖼️ Screenshots
+
+### 👤 Profile Page (Website view)
+![Profile_Website](https://github.com/user-attachments/assets/d12c7ff7-c1e0-41c9-8ee5-5ec14f8f4b24)
+
+### 👤 Profile Page (Mobile view)
+![Profile_Mobile](https://github.com/user-attachments/assets/be399629-1d91-4b6f-9792-d74cc9c0ab0b)
+
+### 🧭 Explore Page
+![Explore](https://github.com/user-attachments/assets/9da3123f-c948-4676-b7a7-84a908d07962)
+
+### 💬 Messaging (Post Sharing & Preview)
+![Messaging](https://github.com/user-attachments/assets/53691b0c-924b-4abe-b62a-582cf65cbfee)
+
+### 👤 Admin Panel
+![Admin_Panel](https://github.com/user-attachments/assets/29afde67-7412-4280-aa7b-3ea8e122b1bb)
+
+### 📤 Notifications
+![Notifications](https://github.com/user-attachments/assets/048ae0ab-5ee6-45bb-951c-d91627f351c9)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### Backend Setup
@@ -75,21 +115,4 @@ node server.js
 cd frontend
 npm install
 npm start
-```
-
----
-
-## 📁 Folder Structure
-
-```
-├── frontend
-│   ├── components
-│   ├── pages
-│   ├── features (Redux)
-│   └── services
-├── backend
-│   ├── controllers
-│   ├── routes
-│   ├── models
-│   └── middleware
 ```
