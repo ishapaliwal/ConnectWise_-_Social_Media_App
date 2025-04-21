@@ -5,7 +5,7 @@ A full-featured **social media platform** built with **React, Node.js, PostgreSQ
 ---
 
 ## 🌐 Live Demo
-🔗 [https://connectwise.netlify.app](https://connectwise.netlify.app)
+🔗 [https://connectwise.netlify.app](https://connectwise.netlify.app){:target="_blank"}
 
 > **Sample Credentials:**  
 > Email: `isha.paliwal@gwu.wdu`  
