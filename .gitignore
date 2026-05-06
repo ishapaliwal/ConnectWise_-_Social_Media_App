@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Claude Code (contains API tokens - never commit)
+.claude/settings.json
+.claude/settings.local.json
+
 # dependencies
 frontend/node_modules/
 backend/node_modules/
